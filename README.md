@@ -12,7 +12,8 @@ I'm currently pursuing my B.Tech in Computer Science & Engineering, where I love
 - 🛠️ **Skills:**  
   - Frontend: HTML, CSS, JavaScript  
   - Backend: Node.js, Express.js  
-  - Database: MongoDB  
+  - Database: MongoDB
+  - also worked with: c, c++, python
 - 🚀 **Current Focus:**  
   - Building and learning backend systems for college projects
 - 🎨 **Hobbies:** I love drawing, catching up on movies, and diving into new skills—whether or not they add value, I just love learning!
