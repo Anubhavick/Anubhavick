@@ -1,5 +1,5 @@
-## Hello There 👋
-# I'm Anubhavick 👋
+# Hello There 👋
+## I'm Anubhav 👋
 
 🎓 **B.Tech Student (CSE)**  
 I'm currently pursuing my B.Tech in Computer Science & Engineering, where I love exploring the world of web development and backend technologies.
