@@ -1,29 +1,13 @@
-# Hello There 👋
-## I'm Anubhav 👋
+# Hello there! 👋
 
-🎓 **B.Tech Student (CSE)**  
-I'm currently pursuing my B.Tech in Computer Science & Engineering, where I love exploring the world of web development and backend technologies.
+- 🤓 I'm a B.Tech Computer Science student passionate about building useful, real-world projects. I enjoy working on web development—especially with JavaScript and the MERN stack—and I'm currently diving deeper into React.
 
----
+- ⚡️ I’ve also explored Swift recently and am always curious to learn technologies that help bring ideas to life.Right now, I’m focused on improving my full-stack development skills by working on side projects that challenge and teach me something new.
 
-## 💡 About Me
+Outside of tech, watching good movies, and picking up new skills just for fun!
 
-- 🌱 **Learning:** Always curious, I enjoy exploring new tech—even if it’s just for fun!
-- 🛠️ **Skills:**  
-  - Frontend: HTML, CSS, JavaScript  
-  - Backend: Node.js, Express.js  
-  - Database: MongoDB
-  - also worked with: c, c++, python
-- 🚀 **Current Focus:**  
-  - Building and learning backend systems for college projects
-- 🎨 **Hobbies:** I love drawing, catching up on movies, and diving into new skills—whether or not they add value, I just love learning!
+If you’re working on something cool or want to collaborate, feel free to reach out.
+📫 Connect with me: anubhav.ickk@gmail.com
 
----
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anubhavick&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-> “Stay curious. Try, learn, repeat!”
+> “Build. Break. Learn. Repeat.”
