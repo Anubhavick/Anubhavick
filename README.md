@@ -10,4 +10,4 @@ If you’re working on something cool or want to collaborate, feel free to reach
 📫 Connect with me: anubhav.ickk@gmail.com
 
 
-> “Build. Break. Learn. Repeat.”
+> “COLD AS USUAL”
